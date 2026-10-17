@@ -1,10 +1,10 @@
 <div align="center">
 
-![RegTech Solutions Compliance Gap Analysis Banner](banner.jpg)
+<img width="3200" height="840" alt="banner" src="https://github.com/user-attachments/assets/b2ea9879-803c-46b3-add9-48173481b09b" />
 
 # RegTech Solutions — Multi-Framework Compliance Gap Analysis
 
-![Progress](https://img.shields.io/badge/Progress-3%2F4%20Tasks-dbab09) ![PCI DSS](https://img.shields.io/badge/-PCI%20DSS%20v4.0-informational) ![SOC 2](https://img.shields.io/badge/-SOC%202%20Type%20II-informational) ![HIPAA](https://img.shields.io/badge/-HIPAA-informational)
+![PCI DSS](https://img.shields.io/badge/-PCI%20DSS%20v4.0-informational) ![SOC 2](https://img.shields.io/badge/-SOC%202%20Type%20II-informational) ![HIPAA](https://img.shields.io/badge/-HIPAA-informational)
 
 </div>
 
